@@ -1,0 +1,11 @@
+D:\HomeWork\Projects\Fabric_metod\Fabric_metod\obj\Debug\Fabric_metod.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Fabric_metod\Fabric_metod\obj\Debug\Fabric_metod.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\Fabric_metod\Fabric_metod\obj\Debug\Fabric_metod.Form1.resources
+D:\HomeWork\Projects\Fabric_metod\Fabric_metod\obj\Debug\Fabric_metod.Properties.Resources.resources
+D:\HomeWork\Projects\Fabric_metod\Fabric_metod\obj\Debug\Fabric_metod.csproj.GenerateResource.cache
+D:\HomeWork\Projects\Fabric_metod\Fabric_metod\obj\Debug\Fabric_metod.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\Fabric_metod\Fabric_metod\bin\Debug\Fabric_metod.exe.config
+D:\HomeWork\Projects\Fabric_metod\Fabric_metod\bin\Debug\Fabric_metod.exe
+D:\HomeWork\Projects\Fabric_metod\Fabric_metod\bin\Debug\Fabric_metod.pdb
+D:\HomeWork\Projects\Fabric_metod\Fabric_metod\obj\Debug\Fabric_metod.exe
+D:\HomeWork\Projects\Fabric_metod\Fabric_metod\obj\Debug\Fabric_metod.pdb
